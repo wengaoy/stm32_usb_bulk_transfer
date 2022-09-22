@@ -1,0 +1,13 @@
+../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:226:17:USBD_CDC_Init	24	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:396:17:USBD_CDC_DeInit	16	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:460:17:USBD_CDC_Setup	32	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:621:17:USBD_CDC_DataIn	24	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:676:17:USBD_CDC_DataOut	24	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:727:17:USBD_CDC_EP0_RxReady	24	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:769:18:USBD_CDC_GetFSCfgDesc	32	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:805:11:USBD_CDC_GetDeviceQualifierDescriptor	16	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:817:10:USBD_CDC_RegisterInterface	24	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:842:10:USBD_CDC_SetTxBuffer	32	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:883:10:USBD_CDC_SetRxBuffer	24	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:913:9:USBD_CDC_TransmitPacket	24	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c:979:10:USBD_CDC_ReceivePacket	24	static
